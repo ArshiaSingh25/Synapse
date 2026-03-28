@@ -104,8 +104,6 @@ The dataset is perfectly balanced across all four morphological classes.
   - Non-linear size score (zooplankton ingestion threshold at 100µm, Cambridge Marine Toxicology 2023)
   - Trophic amplification score (food web bioaccumulation multiplier for particles <100µm)
 - **Pellet / Microbead detection** — fourth morphological class (pallet) fully implemented
-- **Grad-CAM heatmap overlay** — per-particle explainability heatmap showing which image regions drove the classification decision, addressing the "black box" concern for regulatory use
-- **Batch processing** — multiple image upload with aggregate summary report
 
 ### Novel Scientific Contribution
 - **Pollution Source Attribution via Morphological Fingerprinting** — the first image-based system to identify the likely pollution source (textile effluent, fishing industry, packaging waste, personal care products, urban stormwater) from morphology distribution alone, without requiring FTIR chemical analysis. Uses confidence-weighted Morphology Distribution Vector (MDV) and cosine similarity against literature-derived source profiles.
