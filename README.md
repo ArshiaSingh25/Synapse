@@ -272,7 +272,7 @@ Frontend Dashboard
 ---
 
 
-```
+
 ### 5.Risk score metrics
 <img width="1030" height="540" alt="Screenshot 2026-03-28 142604" src="https://github.com/user-attachments/assets/1bb2d070-e888-4c9b-8ab9-3514f839eede" />
 
