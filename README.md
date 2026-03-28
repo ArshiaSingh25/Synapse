@@ -6,9 +6,6 @@
 All established ecological risk indices (PLI, PERI, PHI, RQ) require polymer chemical identification via FTIR spectroscopy. Our ETI and pollution source attribution system is the first morphology-and-size-derived risk framework computable directly from a microscope image, enabling real-time field assessment without chemical analysis.
 
 
----
-
-
 ## 1. Dataset & Preprocessing
 
 ### Dataset
