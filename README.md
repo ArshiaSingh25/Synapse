@@ -137,18 +137,17 @@ Frontend Dashboard
 <img width="1030" height="540" alt="Screenshot 2026-03-28 142604" src="https://github.com/user-attachments/assets/1bb2d070-e888-4c9b-8ab9-3514f839eede" />
 
 
-
 ---
 
 ### 6. Streamlit Web Interface
-<img width="700" height="593" alt="Screenshot 2026-03-28 at 20 02 34" src="https://github.com/user-attachments/assets/bd34084d-4040-455d-a9d5-9da3fc3cb4da" />
+<img width="739" height="779" alt="Screenshot 2026-03-28 at 20 09 52" src="https://github.com/user-attachments/assets/5519d456-e5b6-474d-971b-cc13ce9c239f" />
 
 Feret Metrics 
 
-<img width="720" height="466" alt="Screenshot 2026-03-28 at 20 02 43" src="https://github.com/user-attachments/assets/81f2b743-c522-4f81-a5a5-0d0fdc496e5b" />
+<img width="723" height="402" alt="Screenshot 2026-03-28 at 20 05 46" src="https://github.com/user-attachments/assets/488b195d-3e41-43fe-b174-9adcc777c3a6" />
 
 
-## 6. References
+## 7. References
 
 1. Cambridge Prisms: Microplastics — Zooplankton ingestion study, 2023
 2. ACS Environmental Science & Technology — Selective microplastic ingestion by copepod species, 2020
