@@ -140,6 +140,14 @@ Frontend Dashboard
 
 ---
 
+### 6. Streamlit Web Interface
+<img width="700" height="593" alt="Screenshot 2026-03-28 at 20 02 34" src="https://github.com/user-attachments/assets/bd34084d-4040-455d-a9d5-9da3fc3cb4da" />
+
+Feret Metrics 
+
+<img width="720" height="466" alt="Screenshot 2026-03-28 at 20 02 43" src="https://github.com/user-attachments/assets/81f2b743-c522-4f81-a5a5-0d0fdc496e5b" />
+
+
 ## 6. References
 
 1. Cambridge Prisms: Microplastics — Zooplankton ingestion study, 2023
