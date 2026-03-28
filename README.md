@@ -2,6 +2,10 @@
 ### Synapse Hackathon — Problem Statement 3
 **Theme: Marine Ecosystem Protection & Water Quality Monitoring**
 
+### Research Gap Addressed
+All established ecological risk indices (PLI, PERI, PHI, RQ) require polymer chemical identification via FTIR spectroscopy. Our ETI and pollution source attribution system is the first morphology-and-size-derived risk framework computable directly from a microscope image, enabling real-time field assessment without chemical analysis.
+
+
 ---
 
 
@@ -136,8 +140,6 @@ Frontend Dashboard
 <img width="1030" height="540" alt="Screenshot 2026-03-28 142604" src="https://github.com/user-attachments/assets/1bb2d070-e888-4c9b-8ab9-3514f839eede" />
 
 
-### Research Gap Addressed
-All established ecological risk indices (PLI, PERI, PHI, RQ) require polymer chemical identification via FTIR spectroscopy. Our ETI and pollution source attribution system is the first morphology-and-size-derived risk framework computable directly from a microscope image, enabling real-time field assessment without chemical analysis.
 
 ---
 
