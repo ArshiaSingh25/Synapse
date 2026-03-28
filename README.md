@@ -126,9 +126,6 @@ Size Estimation            Grad-CAM Heatmap
 Marine ETI Scoring
 (morphology + size + trophic amplification)
     ↓
-Pollution Source Attribution
-(cosine similarity → MDV fingerprint)
-    ↓
 Frontend Dashboard
 (annotated image · per-particle table · ETI gauge · source report)
 
