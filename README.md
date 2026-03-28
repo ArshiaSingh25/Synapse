@@ -36,7 +36,7 @@ The dataset is perfectly balanced across all four morphological classes.
 2. **Resize** — all images standardised to 640×640 pixels
 3. **Adaptive Equalization (CLAHE)** — Contrast Limited Adaptive Histogram Equalization applied to normalise uneven microscope illumination (bright center, darker edges in circular field of view). Uses local contrast normalisation with clip limit 2.0 and tile grid 8×8, preserving inter-particle texture differences critical for morphology classification
 
-### Augmentation (applied via Roboflow at export)
+### Augmentation
 - Horizontal flip
 - Vertical flip
 - Rotation ±15°
